@@ -1,0 +1,65 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "unit02-hilo",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-unit02-hilo",
+            "program": "${workspaceFolder}/unit02-hilo/bin/Debug/net6.0/unit02-hilo.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/unit02-hilo",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+        {
+            "name": "unit03-jumper",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-unit03-jumper",
+            "program": "${workspaceFolder}/unit03-jumper/bin/Debug/net6.0/unit03-jumper.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/unit03-jumper",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+        {
+            "name": "unit04-greed",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-unit04-greed",
+            "program": "${workspaceFolder}/unit04-greed/bin/Debug/net6.0/unit04-greed.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/unit04-greed",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+        {
+            "name": "unit05-cycle",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-unit05-cycle",
+            "program": "${workspaceFolder}/unit05-cycle/bin/Debug/net6.0/unit05-cycle.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/unit05-cycle",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+        {
+            "name": "unit06-game",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-unit06-game",
+            "program": "${workspaceFolder}/unit06-game/bin/Debug/net6.0/unit06-game.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/unit06-game",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        }
+    ]
+}
