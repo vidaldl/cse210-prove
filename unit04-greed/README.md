@@ -17,4 +17,4 @@ root                    (project root folder)
 * raylib-cs 3.7.0.1
 
 ## Author
-Leoi Vidal (vidaldl@byui.edu)
+Leo Vidal (vidaldl@byui.edu)
